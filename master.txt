@@ -2,3 +2,4 @@ This is checked into the msater branch by remote user
 remote commit 1 to master branch
 
 local commit 1 to master branch
+remote commit 2 to master branch
