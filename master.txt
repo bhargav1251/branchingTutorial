@@ -7,3 +7,4 @@ local commit 2 to master branch
 remote commit 2 to master branch
 
 remote commit 3 to master branch
+remote commit 4 to master branch
