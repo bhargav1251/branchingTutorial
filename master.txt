@@ -3,3 +3,5 @@ remote commit 1 to master branch
 
 local commit 1 to master branch
 remote commit 2 to master branch
+
+remote commit 3 to master branch
